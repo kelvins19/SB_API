@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="com.github.fge:json-schema-formats:2.0.0" type="repository">
+    <properties maven-id="com.github.fge:json-schema-formats:2.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/fge/json-schema-formats/2.0.0/json-schema-formats-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/fge/json-schema-validator/2.0.1/json-schema-validator-2.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/fge/json-schema-core/1.0.2/json-schema-core-1.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.1.4/jackson-databind-2.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.1.4/jackson-annotations-2.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.1.4/jackson-core-2.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.1/joda-time-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/libphonenumber/libphonenumber/5.3/libphonenumber-5.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/fge/uri-template/0.1/uri-template-0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/14.0/guava-14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
