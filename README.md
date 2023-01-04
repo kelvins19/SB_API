@@ -2,6 +2,13 @@
 
 Used API Documentation: https://punkapi.com/documentation/v2
 
+## Tests List
+- testGet20Beers, testGet5Beers, testGet1Beers
+Test to check the amount of data returned from this [endpoint](https://api.punkapi.com/v2/beers?page=2&per_page=). It verifies whether the data returned is in the same amount from the number of per page requests.
+- testGetAllBeers
+Test to return the amount of data returned from this [endpoint](https://api.punkapi.com/v2/beers). It also verifies whether the returned data is 25 and return the list of the beer's names.
+- testGetAllBeersSchema 
+Test to verify whether the data schema returned from this [endpoint](https://api.punkapi.com/v2/beers) is the same as the schema in `schema.json` file.
 
 ## Tech Stack & Dependencies
 - Java 1.8.0_261
